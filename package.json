@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": false,
   "author": "py8765 pengyang633@126.com/@py8765",
-  "contributors":[
-  	{
-  		"name": "gitig"
-  	}
+  "contributors": [
+    {
+      "name": "gitig"
+    }
   ],
   "dependencies": {
-    "redis": "^2.6.0-2",
+    "ioredis": "^3.2.2",
     "pomelo-logger": "topfreegames/pomelo-logger#0.1.8"
   }
 }
